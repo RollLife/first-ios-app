@@ -61,7 +61,8 @@ class ViewController: UIViewController {
 //    위치값을 적용해야지 오토레이아웃이 적용이 됨을 알 수 있다.
     
 //    앱 아이콘 적용하기
-//    App Icon Generator 사이트로 가서 큰 사이즈로 작은 사이즈로 변경하는 작업을 하면 되겠다.
+//    App Icon Generator 사이트로 가서 큰 사이즈로 작은 사이즈로 변경하는 작업을 하면 되겠다
+    
     
      
 }
