@@ -64,6 +64,7 @@ class ViewController: UIViewController {
 //    App Icon Generator 사이트로 가서 큰 사이즈로 작은 사이즈로 변경하는 작업을 하면 되겠다
     
     
+    
      
 }
 
